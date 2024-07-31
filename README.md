@@ -5,7 +5,7 @@ KDD99: https://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
 2. Run EFMM.cpp file to test the performance of EFMM
 # Result
 Here we provide an example of FMM operation
-  、、、C++
+```C++
   Min_fingerprint_length: 6
   real_fingerprint_length:13
   Bit length: 798720
@@ -16,4 +16,4 @@ Here we provide an example of FMM operation
   Error rate: 0
   Theoretic false positive:0.0078125
   Real false positive:0.00763
-  、、、
+```
