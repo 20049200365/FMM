@@ -1,10 +1,11 @@
 # Dataset
 KDD99: https://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
 # Run code
-1. Run FMM.cpp file to test the performance of FMM
-2. Run EFMM.cpp file to test the performance of EFMM
+1. Set variables "datasize" and "category_num", which represent the number of elements and sets.
+2. Run FMM.cpp file to test the performance of FMM.
+3. Run EFMM.cpp file to test the performance of EFMM.
 # Result
-Here we provide an example of FMM operation
+Here we provide an example of FMM operation.
 ```C++
   Min_fingerprint_length: 6
   real_fingerprint_length:13
