@@ -8,12 +8,12 @@
 
 # Run code
   Generate build script
-    ```C++
+    ```
     cmake .
     ```
   
   Execute build and installation
-    ```C++
+    ```
     make && make install
     ```
 
