@@ -6,10 +6,6 @@
 #include<unordered_map>
 #include<BOB_hash.h>
 
-/**
- * As of July 2021, the lowmem versions of the binary fuse filters are
- * the recommended defaults.
- */
 namespace xorfusefilter_classify {
 
 enum Status {
