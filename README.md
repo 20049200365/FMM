@@ -11,9 +11,10 @@
     ```C++
     cmake .
     ```
+  
   Execute build and installation
     ```C++
-  make && make install
+    make && make install
     ```
 
 # Result
