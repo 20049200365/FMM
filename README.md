@@ -1,10 +1,10 @@
 # Dataset
   
-  Online Retail: https://archive.ics.uci.edu/dataset/352/online+retail
+  Online Retail:  https://archive.ics.uci.edu/dataset/352/online+retail
 
-  MAWI: http://mawi.nezu.wide.ad.jp/mawi/.
+  MAWI:  http://mawi.nezu.wide.ad.jp/mawi/
 
-  CTU-13: https://mcfp.weebly.com/the-ctu-13-dataset-a-labeled-dataset-with-botnet-normal-and-background-traffic.html
+  CTU-13:  https://mcfp.weebly.com/the-ctu-13-dataset-a-labeled-dataset-with-botnet-normal-and-background-traffic.html
 
 # Run code
   Generate build script
