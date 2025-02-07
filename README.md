@@ -12,9 +12,9 @@
     cmake .
     ```
   
-  Execute build and installation
+  Execute build
     ```
-    make && make install
+    make
     ```
 
 # Result
