@@ -7,7 +7,10 @@
   CTU-13: https://mcfp.weebly.com/the-ctu-13-dataset-a-labeled-dataset-with-botnet-normal-and-background-traffic.html.
 
 # Run code
-  
+
+  1. cmake .
+  2. make && make install
+
 # Result
   
   Run FMM_CODE.cpp as an example. The result is as follows.
