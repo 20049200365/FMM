@@ -1,0 +1,4 @@
+/home/fzj/ljy/FMM_Code/上传版本/cmake-build-debug/CMakeFiles/Version_1.dir
+/home/fzj/ljy/FMM_Code/上传版本/cmake-build-debug/CMakeFiles/EFMM_CODE.dir
+/home/fzj/ljy/FMM_Code/上传版本/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fzj/ljy/FMM_Code/上传版本/cmake-build-debug/CMakeFiles/rebuild_cache.dir
