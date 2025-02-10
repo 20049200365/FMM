@@ -19,7 +19,7 @@
 
 # Result
   
-  Run FMM_CODE.cpp as an example. The result is as follows.
+  We run FMM_CODE.cpp as an example. The result is as follows.
   
   ```C++
   Data size: 1000000
